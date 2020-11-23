@@ -1,3 +1,7 @@
+Deatails about the project : In this assignment of neogcamp, I've learnt to make a quiz. Here is the code - 
+
+
+
 var readlineSync = require("readline-sync");
 
 var userName = readlineSync.question("What is your Name?");
